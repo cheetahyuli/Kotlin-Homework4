@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <integer-array name="tran">
+        <item>@drawable/trans1</item>
+        <item>@drawable/trans2</item>
+        <item>@drawable/trans3</item>
+        <item>@drawable/trans4</item>
+        <item>@drawable/trans5</item>
+        <item>@drawable/trans6</item>
+    </integer-array>
+
+    <integer-array name="cubee">
+        <item>@drawable/cubee1</item>
+        <item>@drawable/cubee2</item>
+        <item>@drawable/cubee3</item>
+        <item>@drawable/cubee4</item>
+        <item>@drawable/cubee5</item>
+        <item>@drawable/cubee6</item>
+        <item>@drawable/cubee7</item>
+        <item>@drawable/cubee8</item>
+        <item>@drawable/cubee9</item>
+        <item>@drawable/cubee10</item>
+    </integer-array>
+
+</resources>
